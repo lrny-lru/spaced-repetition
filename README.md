@@ -4,9 +4,9 @@
 
 ## Links:
 
--Live Link: https://patwa.vercel.app/register
--Client Repository link: https://github.com/DominicVolante/spaced-rep-client
--API Repository link: https://github.com/DominicVolante/spaced-rep-api
+-Live Link: https://spaced-repetition-eight-blond.vercel.app/register
+-Client Repository link: https://github.com/lrny-lru/spaced-repetition
+-API Repository link: https://github.com/lrny-lru/spaced-repetition-api
 
 ## Technology Used
 
